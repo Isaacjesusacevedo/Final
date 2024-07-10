@@ -1,0 +1,7 @@
+C:\Users\isa\Documents\Codigos\Proyectos\AppWebInventario\Tpfinal1\Tpfinal1\bin\Debug\Tpfinal1.exe.config
+C:\Users\isa\Documents\Codigos\Proyectos\AppWebInventario\Tpfinal1\Tpfinal1\bin\Debug\Tpfinal1.exe
+C:\Users\isa\Documents\Codigos\Proyectos\AppWebInventario\Tpfinal1\Tpfinal1\bin\Debug\Tpfinal1.pdb
+C:\Users\isa\Documents\Codigos\Proyectos\AppWebInventario\Tpfinal1\Tpfinal1\obj\Debug\Tpfinal1.csproj.AssemblyReference.cache
+C:\Users\isa\Documents\Codigos\Proyectos\AppWebInventario\Tpfinal1\Tpfinal1\obj\Debug\Tpfinal1.csproj.CoreCompileInputs.cache
+C:\Users\isa\Documents\Codigos\Proyectos\AppWebInventario\Tpfinal1\Tpfinal1\obj\Debug\Tpfinal1.exe
+C:\Users\isa\Documents\Codigos\Proyectos\AppWebInventario\Tpfinal1\Tpfinal1\obj\Debug\Tpfinal1.pdb
